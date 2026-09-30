@@ -1,0 +1,9 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Category": "Games",
+  "Description": "Night Shift — first-person animatronic survival horror prototype.",
+  "Modules": [
+    { "Name": "NightShift", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}
